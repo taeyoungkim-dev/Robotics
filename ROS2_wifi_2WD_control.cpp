@@ -37,6 +37,8 @@ char agent_ip[] = "";    // 3. IPAddress -> char[]
 #define RIGHT_MOTOR_ENB_PIN 26  // ENB
 #define RIGHT_MOTOR_IN3_PIN 33  // IN3
 #define RIGHT_MOTOR_IN4_PIN 25  // IN4
+#define TRIG_PIN 16
+#define Echo_PIN 17
 
 // PWM 설정 (2.0.14 버전 기준)
 #define PWM_FREQ 1000
