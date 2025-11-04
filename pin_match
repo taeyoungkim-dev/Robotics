@@ -1,7 +1,9 @@
 pin 
-#define LEFT_MOTOR_ENA_PIN  23
-#define LEFT_MOTOR_IN1_PIN  18
-#define LEFT_MOTOR_IN2_PIN  19
-#define RIGHT_MOTOR_IN3_PIN 33
-#define RIGHT_MOTOR_IN4_PIN 25
-#define RIGHT_MOTOR_ENB_PIN 26
+#define LEFT_MOTOR_ENA_PIN  23  // ENA
+#define LEFT_MOTOR_IN1_PIN  18  // IN1
+#define LEFT_MOTOR_IN2_PIN  19  // IN2
+#define RIGHT_MOTOR_ENB_PIN 26  // ENB
+#define RIGHT_MOTOR_IN3_PIN 33  // IN3
+#define RIGHT_MOTOR_IN4_PIN 25  // IN4
+#define TRIG_PIN 16
+#define Echo_PIN 17
